@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="HeaderTitle">How % Olympiakos fan are you ?</string>
+    <string name="Question1">The date when Olympiakos was established is:</string>
+    <string name="er1_ap1">1921</string>
+    <string name="er1_ap2">1934</string>
+    <string name="er1_ap3">1925</string>
+    <string name="er1_ap4">1900</string>
+    <string name="im_q1">Im_Q1</string>
+    <string name="Question2">Olympiakos has won 44 championships :</string>
+    <string name="im_q2">Im_Q2</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="Question3">Olympiakos moved to his new stadium : </string>
+    <string name="er3_ap1">2004</string>
+    <string name="er3_ap2">2005</string>
+    <string name="er3_ap3">2006</string>
+    <string name="im_q3">Im_Q3</string>
+    <string name="Question4">Largest Victory in Champions League was against: </string>
+    <string name="im_q4">Im_Q4</string>
+    <string name="er4_ap1">6-2/Bayer </string>
+    <string name="er4_ap2">5-1/Benfica </string>
+    <string name="Question5">Name the players : </string>
+    <string name="im_q5">Im_Q5</string>
+    <string name="er5_ap1">Retsos</string>
+    <string name="er5_ap2">Siovas</string>
+    <string name="er5_ap3">Chori</string>
+    <string name="er5_ap4">Pardo</string>
+    <string name="Name">Write your name below </string>
+    <string name="YName">Your name is :  </string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
